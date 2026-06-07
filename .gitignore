@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+
+
+# Model files (important in ML)
+*.pkl
+*.joblib
+
+# Data files
+*.csv
+
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
